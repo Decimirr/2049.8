@@ -3,7 +3,7 @@
 ## Control
 
 - **Drag left or right** to rotate.
-- **Space bar** to accelerate(doubles) box spawn rate.
+- **Space bar** to accelerate(double) box spawn rate.
 
 ## Gamemode
 
