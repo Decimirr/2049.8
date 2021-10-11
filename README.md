@@ -18,4 +18,4 @@
 
 - **Symtext** by **Pixel Sagas**
 
-- **Bulkypix** by **John Bloor
+- **Bulkypix** by **John Bloor**
